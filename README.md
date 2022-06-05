@@ -11,7 +11,7 @@ kamp95
 
 - Özge Aydın: Product Owner
 - Ferhat Arslan: Scrum Master/Designer
-- Rüveyda Sena Tatar: Team Member/Developer 
+- RUveyda Sena Tatar: Team Member/Developer 
 
 
 ## Ürün İsmi
