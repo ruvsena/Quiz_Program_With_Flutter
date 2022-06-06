@@ -1,5 +1,5 @@
 # bootcamp95
-Bootcamp'teki 95. takım olarak repository alanımız.
+Bootcamp'teki 95. takım olarak repository alanımız. NOT: Projenin son hali 'master' adlı branch'tadır.
 
 # **Takım İsmi**
 
