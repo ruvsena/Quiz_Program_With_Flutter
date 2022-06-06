@@ -118,24 +118,31 @@ Haftalık toplantılar daha sık yapılacaktır.
 
 # Sprint 3
 
-Sprint Notları : Bu sprint karar verilen projenin bitirmesi amaçlandı. Ek özellikler eklenerek proje kullanılabilir hale getirildi.
+**Sprint Notları** : Bu sprint karar verilen projenin bitirmesi amaçlandı. Ek özellikler eklenerek proje kullanılabilir hale getirildi.
 
-Sprint içinde tamamlanması tahmin edilen puan : 100
+**Sprint içinde tamamlanması tahmin edilen puan** : 100
 
-Puan tamamlama mantığı: Belirlenen puanın görevlere eşit şekilde dağıtılmasına karar verildi.
+**Puan tamamlama mantığı**: Belirlenen puanın görevlere eşit şekilde dağıtılmasına karar verildi.
 
-Backlog düzeni ve Story seçimleri: Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
+**Backlog düzeni ve Story seçimleri**: Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-Daily Scrum:  Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır.
+**Daily Scrum**:  Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır. [Sprint 2 Daily Scrum Chats](https://github.com/ruvsena/bootcamp95/blob/7335de7bd83ff94c44269cd06c40472787d57163/DailyScrumSP3.docx?raw=true)
+
+**Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/ruvsena/bootcamp95/blob/7335de7bd83ff94c44269cd06c40472787d57163/backlog/bl1.png) 
+![Backlog 2](https://github.com/ruvsena/bootcamp95/blob/7335de7bd83ff94c44269cd06c40472787d57163/backlog/bl2.png) 
+![Backlog 3](https://github.com/ruvsena/bootcamp95/blob/7335de7bd83ff94c44269cd06c40472787d57163/backlog/bl3.png)
 
 
-*Ürün Durumu: 
+**Ürün Durumu**: 
 
-Sprint Review: 
+**Sprint Review**: 
 Alınan kararlar : Karar verilen yeni proje görevleri düzenli bir şekilde yerine getirilmesine dikkat edilmiştir.
 
-Sprint Retrospective:
+**Sprint Retrospective**:
 Görevlerin tamamlanma süresine daha sık dikkat edilmiştir.
+
+Diğer Notlar: Ürünün tamamlanmış hali **master** adlı branch'tadır.
 
 
