@@ -118,4 +118,24 @@ Haftalık toplantılar daha sık yapılacaktır.
 
 # Sprint 3
 
----
+Sprint Notları : Bu sprint karar verilen projenin bitirmesi amaçlandı. Ek özellikler eklenerek proje kullanılabilir hale getirildi.
+
+Sprint içinde tamamlanması tahmin edilen puan : 100
+
+Puan tamamlama mantığı: Belirlenen puanın görevlere eşit şekilde dağıtılmasına karar verildi.
+
+Backlog düzeni ve Story seçimleri: Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
+Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+Daily Scrum:  Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+
+*Ürün Durumu: 
+
+Sprint Review: 
+Alınan kararlar : Karar verilen yeni proje görevleri düzenli bir şekilde yerine getirilmesine dikkat edilmiştir.
+
+Sprint Retrospective:
+Görevlerin tamamlanma süresine daha sık dikkat edilmiştir.
+
+
