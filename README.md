@@ -135,7 +135,16 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 ![Backlog 3](https://github.com/ruvsena/bootcamp95/blob/7335de7bd83ff94c44269cd06c40472787d57163/backlog/bl3.png)
 
 
-**Ürün Durumu**: 
+**Ürün Durumu**: Ekran görüntüleri:
+
+
+  ![Screenshot 1](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui1.png?raw=true)
+  ![Screenshot 2](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui2.png?raw=true)
+  ![Screenshot 3](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui3.png?raw=true)
+  ![Screenshot 4](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui4.png?raw=true)
+  ![Screenshot 5](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui5.png?raw=true)
+  ![Screenshot 6](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui6.png?raw=true)
+  ![Screenshot 7](https://github.com/ruvsena/bootcamp95/blob/7d4467b2a92f0aed4366cfc86217b2485b2cd3aa/uygulamaici/ui7.png?raw=true)
 
 **Sprint Review**: 
 Alınan kararlar : Karar verilen yeni proje görevleri düzenli bir şekilde yerine getirilmesine dikkat edilmiştir.
