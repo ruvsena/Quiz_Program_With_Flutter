@@ -61,10 +61,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/LandingPage.png?raw=true)
-  ![Screenshot 2](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/AnaSayfa.png?raw=true)
-  ![Screenshot 3](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/KitapIcerigi.png?raw=true)
-  ![Screenshot 4](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/AramaKismi.png?raw=true)
-  ![Screenshot 5](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/ProfilResmineTiklayinca.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Uygulama içi dizayna karar verilmiştir. Renk paletleri tekrar gözden geçirilecektir. Takım içi iletişim sıkıntısından dolayı uygulamada küçülmeye gidilip gidilmeyeceği tartışılacaktır.
